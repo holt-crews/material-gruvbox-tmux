@@ -1,17 +1,17 @@
 # NOTE: you can use vars with $<var> and ${<var>} as long as the str is double quoted: ""
 # WARNING: hex colors can't contain capital letters
 
-# --> Catppuccin (Frappe)
+# --> gruvbox (material-medium-dark)
 thm_bg="#282828"
 thm_fg="#ebdbb2"
-thm_cyan="#689d6a"
+thm_cyan="#7daea3"
 thm_black="#282828"
 thm_gray="#7c6f64"
 thm_magenta="#b16286"
-thm_pink="#d3869b"
-thm_red="#cc241d"
-thm_green="#98971a"
-thm_yellow="#d79921"
+thm_pink="#ea6962"
+thm_red="#ea6962"
+thm_green="#a9b665"
+thm_yellow="#d8a657"
 thm_blue="#458588"
 thm_orange="#e78a4e"
-thm_black4="#1b1b1b"
+thm_black4="#282828"
